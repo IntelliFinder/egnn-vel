@@ -1,0 +1,12 @@
+{
+    "epochs": [
+        0,
+        5,
+        10
+    ],
+    "losess": [
+        NaN,
+        NaN,
+        NaN
+    ]
+}
